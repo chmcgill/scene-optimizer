@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+# Blender files: the example scenes contain Quixel Megascans assets,
+# which their licence does not allow redistributing
+*.blend
+*.blend1
+# render output of the examples (copies used in docs/ are committed)
+examples/meadow_out/
+examples/scatter_out/
